@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.btn{
+  width: 80%;
+
+}
+.NavImage{
+height:500px;
+width: 400px;
+}
